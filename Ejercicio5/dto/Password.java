@@ -1,5 +1,7 @@
 package Ejercicio5.dto;
 
+import java.util.Random;
+
 public class Password {
 	
 	// Atributos
